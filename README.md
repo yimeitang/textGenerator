@@ -3,6 +3,7 @@
 ### Thanks to Duke'Class on Coursera: Java Programming: Principles of Software Design(https://www.coursera.org/learn/java-programming-design-principles)
 
 ### This textGenerator could make some similar copies of your favorite text. I used Taylor Swift's Red Song lyrics as the training text
+### You could specify how many words(N-gram) you want to use as the base to generate the next word
 ![training](https://user-images.githubusercontent.com/27776652/32156708-0391ab52-bd0d-11e7-96fe-606ea72f7ea9.png)
 
 ### Here are two copies
